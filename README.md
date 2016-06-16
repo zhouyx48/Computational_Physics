@@ -22,3 +22,7 @@
 代码2：[非旋转球](https://github.com/zhouyx48/Computational_Physics_2012301020048/blob/master/Documents/Courses/Computational_Physics/exercise7--backspin_baseball/nospin_baseball.f90)
 
 子程序：[Runge-Kutta-Fehlberg方法](http://people.sc.fsu.edu/~jburkardt/f_src/rkf45/rkf45.html)
+
+## [第八次作业——钟摆的受迫振动（习题3.7）](https://github.com/zhouyx48/Computational_Physics_2012301020048/blob/master/Documents/Courses/Computational_Physics/exercise8--forced_pendulum/%E4%BD%9C%E4%B8%9A.md)
+
+代码：[单摆](https://github.com/zhouyx48/Computational_Physics_2012301020048/blob/master/Documents/Courses/Computational_Physics/exercise8--forced_pendulum/forced_pendulum.f90)
