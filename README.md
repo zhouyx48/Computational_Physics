@@ -26,3 +26,7 @@
 ## [第八次作业——钟摆的受迫振动（习题3.7）](https://github.com/zhouyx48/Computational_Physics_2012301020048/blob/master/Documents/Courses/Computational_Physics/exercise8--forced_pendulum/%E4%BD%9C%E4%B8%9A.md)
 
 代码：[单摆](https://github.com/zhouyx48/Computational_Physics_2012301020048/blob/master/Documents/Courses/Computational_Physics/exercise8--forced_pendulum/forced_pendulum.f90)
+
+## [第九次作业——混沌摆（习题3.12）](https://github.com/zhouyx48/Computational_Physics_2012301020048/blob/master/Documents/Courses/Computational_Physics/exercise9--pendulum_and_chaos/%E4%BD%9C%E4%B8%9A.md)
+
+代码：[混沌摆](https://github.com/zhouyx48/Computational_Physics_2012301020048/blob/master/Documents/Courses/Computational_Physics/exercise9--pendulum_and_chaos/chaos.f90)
