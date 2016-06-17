@@ -30,3 +30,7 @@
 ## [第九次作业——混沌摆（习题3.12）](https://github.com/zhouyx48/Computational_Physics_2012301020048/blob/master/Documents/Courses/Computational_Physics/exercise9--pendulum_and_chaos/%E4%BD%9C%E4%B8%9A.md)
 
 代码：[混沌摆](https://github.com/zhouyx48/Computational_Physics_2012301020048/blob/master/Documents/Courses/Computational_Physics/exercise9--pendulum_and_chaos/chaos.f90)
+
+## [第十次作业——气象与混沌（习题3.26）](https://github.com/zhouyx48/Computational_Physics_2012301020048/blob/master/Documents/Courses/Computational_Physics/exercise10--Lorenz_model/%E4%BD%9C%E4%B8%9A.md)
+
+代码：[解Lorenz方程](https://github.com/zhouyx48/Computational_Physics_2012301020048/blob/master/Documents/Courses/Computational_Physics/exercise10--Lorenz_model/Lorenz_model.f90)
