@@ -34,3 +34,7 @@
 ## [第十次作业——气象与混沌（习题3.26）](https://github.com/zhouyx48/Computational_Physics_2012301020048/blob/master/Documents/Courses/Computational_Physics/exercise10--Lorenz_model/%E4%BD%9C%E4%B8%9A.md)
 
 代码：[解Lorenz方程](https://github.com/zhouyx48/Computational_Physics_2012301020048/blob/master/Documents/Courses/Computational_Physics/exercise10--Lorenz_model/Lorenz_model.f90)
+
+## [第十一次作业——双星（习题4.7）](https://github.com/zhouyx48/Computational_Physics_2012301020048/blob/master/Documents/Courses/Computational_Physics/exercise11--binary_motion/%E4%BD%9C%E4%B8%9A.md)
+
+代码：[双星的运动](https://github.com/zhouyx48/Computational_Physics_2012301020048/blob/master/Documents/Courses/Computational_Physics/exercise11--binary_motion/binary.f90)
