@@ -38,3 +38,7 @@
 ## [第十一次作业——双星（习题4.7）](https://github.com/zhouyx48/Computational_Physics_2012301020048/blob/master/Documents/Courses/Computational_Physics/exercise11--binary_motion/%E4%BD%9C%E4%B8%9A.md)
 
 代码：[双星的运动](https://github.com/zhouyx48/Computational_Physics_2012301020048/blob/master/Documents/Courses/Computational_Physics/exercise11--binary_motion/binary.f90)
+
+## [第十二次作业——三体问题（习题4.16）](https://github.com/zhouyx48/Computational_Physics_2012301020048/blob/master/Documents/Courses/Computational_Physics/exercise12--three_body/%E4%BD%9C%E4%B8%9A.md)
+
+代码：[三体问题](https://github.com/zhouyx48/Computational_Physics_2012301020048/blob/master/Documents/Courses/Computational_Physics/exercise12--three_body/three_body.f90)
